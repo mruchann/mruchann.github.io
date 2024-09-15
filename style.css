@@ -324,9 +324,9 @@ section {
   align-self: center;
   text-align: center;
   width: 100%; /* or a specific width, like 90vw */
-  max-width: 1200px; /* limit the maximum width */
   height: auto; /* allow height to expand with content */
-  overflow: auto; /* hide overflow */
+  overflow: auto; /*hide overflow*/
+  margin: 0 auto; /* Ensures the element is centered */
 }
 
 /* EXPERIENCE SECTION */
