@@ -163,7 +163,7 @@ section {
 }
 
 #profile-pic {
-  padding: 20px;
+  border-radius: 50%;
 }
 
 /* PROFILE SECTION */
@@ -287,10 +287,6 @@ section {
 .about-containers,
 .about-details-container {
   display: flex;
-}
-
-.about-pic {
-  border-radius: 2rem;
 }
 
 .arrow {
