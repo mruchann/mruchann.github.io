@@ -326,7 +326,7 @@ section {
   width: 100%; /* or a specific width, like 90vw */
   max-width: 1200px; /* limit the maximum width */
   height: auto; /* allow height to expand with content */
-  overflow: scroll; /* prevent overflow */
+  overflow: auto; /* hide overflow */
 }
 
 /* EXPERIENCE SECTION */
